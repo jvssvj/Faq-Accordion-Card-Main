@@ -25,7 +25,6 @@ body {
     font-family: 'Kumbh Sans', sans-serif;
     background-image: linear-gradient(to bottom, var(--LinearBG1), var(--LinearBG2));
     background-attachment: fixed;
-    margin: 1em;
 }
 
 .card {
@@ -109,7 +108,7 @@ p {
 .attribution {
     display: block;
     position: absolute;
-    margin-top: 54em;
+    margin-top: 58em;
     padding: .3rem;
     text-align: center;
     z-index: 1;
